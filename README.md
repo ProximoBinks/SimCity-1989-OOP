@@ -3,8 +3,10 @@
 
 Worked together with a partner to develop a variant of SimCity 1989 using C++ programming language and applying Object-Oriented Programming concepts. Designed a user interface that enabled users to keep track of their city's important indicators and construct or remove buildings as needed to achieve a target of earning XX amount of money by the end of a particular timeframe.
 
+<!---
 # Installation instructions
 ...
 
 # How to play
 ...
+--->
